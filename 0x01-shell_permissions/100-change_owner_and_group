@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown vincent:user staff
+chown -hR vincent:staff
